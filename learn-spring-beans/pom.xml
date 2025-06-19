@@ -8,11 +8,11 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.runner</groupId>
-	<artifactId>game-runner</artifactId>
+	<groupId>com.in28minutes.springboot</groupId>
+	<artifactId>learn-spring-beans</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>game-runner</name>
-	<description>A Game Runner with Java and Spring Framework</description>
+	<name>learn-spring-beans</name>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
